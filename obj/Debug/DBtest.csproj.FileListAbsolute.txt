@@ -1,0 +1,13 @@
+c:\users\elev\source\repos\DBtest\DBtest\obj\Debug\DBtest.csprojResolveAssemblyReference.cache
+c:\users\elev\source\repos\DBtest\DBtest\obj\Debug\DBtest.Form1.resources
+c:\users\elev\source\repos\DBtest\DBtest\obj\Debug\DBtest.Properties.Resources.resources
+c:\users\elev\source\repos\DBtest\DBtest\obj\Debug\DBtest.csproj.GenerateResource.Cache
+c:\users\elev\source\repos\DBtest\DBtest\obj\Debug\DBtest.csproj.CoreCompileInputs.cache
+c:\users\elev\source\repos\DBtest\DBtest\bin\Debug\DBtest.exe.config
+c:\users\elev\source\repos\DBtest\DBtest\bin\Debug\DBtest.exe
+c:\users\elev\source\repos\DBtest\DBtest\bin\Debug\DBtest.pdb
+c:\users\elev\source\repos\DBtest\DBtest\bin\Debug\MySql.Data.dll
+c:\users\elev\source\repos\DBtest\DBtest\bin\Debug\Google.Protobuf.dll
+c:\users\elev\source\repos\DBtest\DBtest\bin\Debug\MySql.Data.xml
+c:\users\elev\source\repos\DBtest\DBtest\obj\Debug\DBtest.exe
+c:\users\elev\source\repos\DBtest\DBtest\obj\Debug\DBtest.pdb
